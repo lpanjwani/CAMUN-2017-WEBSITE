@@ -1,2 +1,4 @@
-# CAMUN-2016-Website
-Code of the CAMUN 2016 Website
+# CAMUN-2017-Website
+Code of the CAMUN 2017 Website
+
+Demo at http://lpanjwani.github.io/CAMUN-2017-Website/
