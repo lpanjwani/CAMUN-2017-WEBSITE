@@ -30,7 +30,7 @@ var __slideshowDelay = 800; // delay
 /*=================================================
 youtube video
 =================================================*/
-var __youtubeUrl = 'https://youtu.be/8COMtki4PiE'; // youtube video url
+var __youtubeUrl = 'https://www.youtube.com/watch?v=xyXnKCHl7w8'; // youtube video url
 var __videoStart = 0; // start time (seconds)
 var __videoEnd = 120; // end time (seconds)
 var __videoLoop = true; // loop
