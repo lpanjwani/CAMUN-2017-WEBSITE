@@ -42,7 +42,7 @@
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+  js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
@@ -59,9 +59,8 @@
 	<div id="top-bar">
 		<div class="container">
 			<nav class="menu module left">
-				<a href="index.html" class="active">Home</a>
-				<a href="blog.html">Chair</a>
-				<a href="documentation.html" target="_blank">Co-Chair</a>
+				<a href="../../landing" class="active">Home</a>
+				<a href="index.html">Lavesh</a>
 			</nav>
 		</div>
 	</div>
@@ -161,7 +160,6 @@
 					<div class="timeline-event animated">
 						<div class="date"><span>03.2015</span></div>
 						<div class="content">
-							<img src="assets/img/photos/london.jpg" alt="" class="img-rounded">
 							<h3>Media Director</h3>
 							<span class="caption">for CAMUN 2016</span>
 						</div>
@@ -215,28 +213,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-sm-6">
-						<form id="contact-form" class="contact-form validate-form">
-							<div class="form-group input-wrapper">
-								<input name="name" type="text" class="form-control" required>
-								<span class="input-label">Name</span>
-							</div>
-							<div class="form-group input-wrapper">
-								<input name="email" type="email" class="form-control" required>
-								<span class="input-label">E-mail</span>
-							</div>
-							<div class="form-group input-wrapper">
-								<textarea name="message" cols="30" rows="4" class="form-control"></textarea>
-								<span class="input-label">Message</span>
-								<span class="input-line"></span>
-							</div>
-							<div class="row">
-								<div class="col-sm-8 col-sm-push-2">
-									<button type="submit" class="btn btn-submit"><span>Send message</span></button>
-								</div>
-							</div>
-						</form>
-					</div>
+
 				</div>
 			</div>
 			<div id="google-map" class="h-300" data-latitude="24.346524" data-longitude="54.530672"></div>
@@ -344,18 +321,18 @@
 <!-- Styleswitcher -->
 <script src="assets/styleswitcher/styleswitcher.js"></script>
 
-    
- <!-- FB Current Page -->
+    <!-- FB Current Page -->
 <script language="javascript">
     function fbshareCurrentPage()
     {window.open("https://www.facebook.com/sharer/sharer.php?u="+escape(window.location.href)+"&t="+document.title, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false; }
 </script>
     
-  <!-- TWITTER Current Page -->
-  <script language="javascript">
+    <!-- TWITTER Current Page -->
+    <script language="javascript">
     function tweetCurrentPage()
     { window.open("https://twitter.com/share?url="+escape(window.location.href)+"&text="+document.title, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');return false; }
 </script>
+
     
 </body>
 
