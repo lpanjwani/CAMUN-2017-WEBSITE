@@ -36,9 +36,9 @@ place custom style at assets/css/custom.css
 /*==================================================
 import css
 ==================================================*/
-@import url("http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900");
-@import url("http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700");
-@import url("http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic");
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700");
+@import url("https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic");
 @import url("font-awesome.min.css");
 @import url("stroke-gap-icons.css");
 @import url("plugin.min.css");
