@@ -3,8 +3,9 @@
 <file name=".htaccess" server="107.180.2.25//public_html/" local="131237515044649293" remote="131237262600000000" Dst="0" />
 <file name=".gitattributes" server="107.180.2.25//public_html/" local="131215496421724414" remote="131237279400000000" Dst="0" />
 <file name=".gitignore" server="107.180.2.25//public_html/" local="131215496421754415" remote="131237279400000000" Dst="0" />
-<file name="index.html" server="107.180.2.25//public_html/" local="131218761595767522" remote="131237279400000000" Dst="0" />
-<file name="landing.html" server="107.180.2.25//public_html/" local="131218761596077735" remote="131237279400000000" Dst="0" />
+<file name="index.html" server="107.180.2.25//public_html/" local="131238883440836998" remote="131238489000000000" Dst="0" />
+<file name="landing.html" server="107.180.2.25//public_html/" local="131238874673879890" remote="131238485400000000" Dst="0" />
 <file name="open.php" server="107.180.2.25//public_html/" local="131218761439381962" remote="131237279400000000" Dst="0" />
 <file name="sitemap.xml" server="107.180.2.25//public_html/" local="131237532063080472" remote="131237280000000000" Dst="0" />
+<file name="app.html" server="107.180.2.25//public_html/" local="131238883665173284" remote="131238487800000000" Dst="0" />
 </dwsync>
