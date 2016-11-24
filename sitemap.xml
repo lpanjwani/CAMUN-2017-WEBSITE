@@ -8,137 +8,152 @@
 
 <url>
   <loc>https://www.cambridgemun.org/</loc>
-  <lastmod>2016-10-08T12:23:46+00:00</lastmod>
+  <lastmod>2016-11-17T20:35:59+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/register</loc>
-  <lastmod>2016-10-02T12:26:00+00:00</lastmod>
+  <lastmod>2016-10-22T05:54:06+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cambridgemun.org/app</loc>
+  <lastmod>2016-11-17T20:33:59+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/landing</loc>
-  <lastmod>2016-10-02T12:25:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.cambridgemun.org/app/</loc>
-  <lastmod>2016-09-24T14:31:09+00:00</lastmod>
+  <lastmod>2016-11-17T20:29:11+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/index</loc>
-  <lastmod>2016-10-08T12:23:46+00:00</lastmod>
+  <lastmod>2016-11-17T20:35:59+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/Pages/chief-guests</loc>
-  <lastmod>2016-08-17T23:52:06+00:00</lastmod>
+  <lastmod>2016-10-22T05:54:02+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/People/Ann</loc>
-  <lastmod>2016-08-04T06:12:20+00:00</lastmod>
+  <lastmod>2016-11-17T09:45:22+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/People/Inaara</loc>
-  <lastmod>2016-08-04T06:13:06+00:00</lastmod>
+  <lastmod>2016-11-17T09:45:24+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/People/Lavesh</loc>
-  <lastmod>2016-08-04T06:13:50+00:00</lastmod>
+  <lastmod>2016-11-17T09:45:25+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/People/Aathma</loc>
-  <lastmod>2016-08-04T06:11:56+00:00</lastmod>
+  <lastmod>2016-11-17T09:45:21+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/People/Dezerine</loc>
-  <lastmod>2016-08-04T06:12:40+00:00</lastmod>
+  <lastmod>2016-11-17T09:45:23+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/Pages/ecosoc</loc>
-  <lastmod>2016-08-17T23:52:22+00:00</lastmod>
+  <lastmod>2016-11-16T10:06:01+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/Pages/hsc</loc>
-  <lastmod>2016-09-24T15:06:56+00:00</lastmod>
+  <lastmod>2016-10-22T05:54:02+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/Pages/unsc</loc>
-  <lastmod>2016-09-24T15:07:07+00:00</lastmod>
+  <lastmod>2016-10-22T05:54:02+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/Pages/specpol</loc>
-  <lastmod>2016-09-24T15:06:59+00:00</lastmod>
+  <lastmod>2016-10-22T05:54:02+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/Pages/unodc</loc>
-  <lastmod>2016-09-24T15:07:03+00:00</lastmod>
+  <lastmod>2016-10-22T05:54:02+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/Pages/unsdg</loc>
-  <lastmod>2016-08-17T23:53:18+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.cambridgemun.org/index.html</loc>
-  <lastmod>2016-10-08T12:23:46+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.cambridgemun.org/app/index</loc>
-  <lastmod>2016-09-24T14:31:09+00:00</lastmod>
+  <lastmod>2016-10-22T05:54:02+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/Pages/index</loc>
-  <lastmod>2016-07-05T04:43:18+00:00</lastmod>
+  <lastmod>2016-10-22T05:54:02+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/People/Hiba</loc>
-  <lastmod>2016-08-04T06:16:10+00:00</lastmod>
+  <lastmod>2016-11-17T09:45:23+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/People/Prerna</loc>
-  <lastmod>2016-08-04T06:16:40+00:00</lastmod>
+  <lastmod>2016-11-18T11:48:01+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/People/Zaynab</loc>
-  <lastmod>2016-08-06T10:50:38+00:00</lastmod>
+  <lastmod>2016-11-17T09:45:28+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/People/Nidhi</loc>
-  <lastmod>2016-08-04T06:14:06+00:00</lastmod>
+  <lastmod>2016-11-17T09:45:26+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/People/Nawaz</loc>
-  <lastmod>2016-08-06T11:16:28+00:00</lastmod>
+  <lastmod>2016-11-17T09:45:25+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/People/Suzan</loc>
-  <lastmod>2016-08-04T06:17:32+00:00</lastmod>
+  <lastmod>2016-11-17T09:45:28+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://www.cambridgemun.org/People/Isuri</loc>
-  <lastmod>2016-08-04T06:17:58+00:00</lastmod>
+  <lastmod>2016-11-17T09:45:24+00:00</lastmod>
+  <changefreq>monthly</changefreq>
   <priority>0.51</priority>
 </url>
 </urlset>

@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "org.cambridgemun",
+               "sha256_cert_fingerprints": ["FB:49:D0:F4:CD:77:94:D6:83:EE:71:99:D7:90:13:AC:06:FC:2B:A7:63:C2:76:E9:8C:CB:B4:59:E2:99:D1:04"] }
+}]
