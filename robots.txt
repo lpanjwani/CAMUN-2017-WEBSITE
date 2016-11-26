@@ -1,9 +1,27 @@
-User-Agent: *
-Disallow: 
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+
+# Directories
 Disallow: /Archives
+Disallow: /assets
+Disallow: /css
+Disallow: /email
+Disallow: /fonts
+Disallow: /images
+Disallow: /img
+Disallow: /js
 Disallow: /Alpha
 Disallow: /Beta
 Disallow: /Test
 Disallow: /Testing
+
+# Files
+Disallow: .htaccess
+Disallow: open.php
 
 Sitemap: http://www.cambridgemun.org/sitemap.xml
