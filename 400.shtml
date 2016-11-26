@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+  <title>Cambridge Model United Nations</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Founded in 2008, CAMUN, organised by the Cambridge High School (Abu Dhabi), is one of the foremost MUN clubs in the UAE.">
+<meta name="author" content="Lavesh Panjwani">
+<meta name="theme-color" content="#07BEE5">
+<link rel="shortcut icon" href="../images/favicon.ico" />
+
+<style>
+body {
+  font-size: 16px;
+  color: #002657;
+  font-family: 'Arial', 'Verdana', serif;
+  padding-right: 0!important;
+}
+.maintenance-page {
+    background-color: #07BEE5;
+    text-align: center;
+    color: #fff;
+    padding-top: 5vw;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+</style>
+<!-- Start of Async Drift Code -->
+<script>
+!function() {
+  var t;
+  if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0, 
+  t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ], 
+  t.factory = function(e) {
+    return function() {
+      var n;
+      return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
+    };
+  }, t.methods.forEach(function(e) {
+    t[e] = t.factory(e);
+  }), t.load = function(t) {
+    var e, n, o, i;
+    e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"), 
+    o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js", 
+    n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
+  });
+}();
+drift.SNIPPET_VERSION = '0.3.1';
+drift.load('cumhuvi3mtfg');
+</script>
+<!-- End of Async Drift Code -->
+</head>
+<body class="maintenance-page in-maintenance no-sidebars">
+  <div id="page">
+    <div id="header">
+      <div id="logo-title">
+
+                  <a href="../index.html" title="Home" rel="home" id="logo">
+            <img src="../images/Favicon.png" alt="Home" />
+          </a>
+        
+        <div id="name-and-slogan">
+          
+                  </div> <!-- /name-and-slogan -->
+      </div> <!-- /logo-title -->
+
+      
+    </div> <!-- /header -->
+
+    <div id="container" class="clearfix">
+
+      
+      <div id="main" class="column"><div id="main-squeeze">
+
+        <div id="content">
+          <h3 class="title" id="page-title" style="color: #fff; font-family: 'Arial', 'Verdana', serif;">Please refresh this page, clear your cookies or use different browser to access this page.</h3>                    <div id="content-content" class="clearfix">
+                    <br>
+         <h3 class="title" id="page-title" style="color: #fff; font-family: 'Arial', 'Verdana', serif;">Designed &amp; Developed by Lavesh Panjwani</h3>
+        
+            <!--© Cambridge Model United Nations is currently under maintenance. We should be back shortly. Thank you for your patience. -->          </div> <!-- /content-content -->
+        </div> <!-- /content -->
+
+      </div></div> <!-- /main-squeeze /main -->
+
+      
+    </div> <!-- /container -->
+
+    <div id="footer-wrapper">
+      <div id="footer">
+              </div> <!-- /footer -->
+    </div> <!-- /footer-wrapper -->
+
+  </div> <!-- /page -->
+
+</body>
+
+</html>

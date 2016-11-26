@@ -8,4 +8,9 @@
 <file name="open.php" server="107.180.2.25//public_html/" local="131218761439381962" remote="131237279400000000" Dst="0" />
 <file name="sitemap.xml" server="107.180.2.25//public_html/" local="131239466866530101" remote="131239071600000000" Dst="0" />
 <file name="app.html" server="107.180.2.25//public_html/" local="131238883665173284" remote="131238487800000000" Dst="0" />
+<file name="401.shtml" server="107.180.2.25//public_html/" local="131246466737060770" remote="131246114400000000" Dst="0" />
+<file name="400.shtml" server="107.180.2.25//public_html/" local="131246466740100428" remote="131246114400000000" Dst="0" />
+<file name="404.shtml" server="107.180.2.25//public_html/" local="131246466747862991" remote="131246114400000000" Dst="0" />
+<file name="500.shtml" server="107.180.2.25//public_html/" local="131246466751871336" remote="131246113800000000" Dst="0" />
+<file name="403.shtml" server="107.180.2.25//public_html/" local="131246466756983012" remote="131246114400000000" Dst="0" />
 </dwsync>
