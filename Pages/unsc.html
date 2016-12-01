@@ -13,6 +13,36 @@
   <link rel="import" href="https://www.polymer-project.org/components/core-icons/core-icons.html">
   <link rel="import" href="https://www.polymer-project.org/components/font-roboto/roboto.html">
   
+  <!--Add OneSignal Notifiations for Web Browsers-->
+   <link rel="manifest" href="/manifest.json">
+  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+  <script>
+    var OneSignal = window.OneSignal || [];
+    OneSignal.push(["init", {
+      appId: "d251ff64-ad4d-45ff-adbf-4ff54b8571e5",
+      autoRegister: true,
+      notifyButton: {
+        enable: true, /* Set to false to hide */
+		  prenotify: true, /* Show an icon with 1 unread message for first-time site visitors */
+        	showCredit: false, /* Hide the OneSignal logo */
+		   position: 'bottom-left', /* Either 'bottom-left' or 'bottom-right' */
+		   colors: { // Customize the colors of the main button and dialog popup button
+      'circle.background': 'rgb(7,190,229)',
+      'circle.foreground': 'white',
+      'badge.background': 'rgb(7,190,229)',
+      'badge.foreground': 'white',
+      'badge.bordercolor': 'white',
+      'pulse.color': 'white',
+      'dialog.button.background.hovering': 'rgb(7,190,229)',
+      'dialog.button.background.active': 'rgb(7,190,229)',
+      'dialog.button.background': 'rgb((7,190,229)',
+      'dialog.button.foreground': 'white'
+    },
+      },
+		safari_web_id: 'web.onesignal.auto.514888af-c9d7-482b-90d4-9de98d872128'
+    }]);
+  </script>    
+  
 <!-- Start of Async Drift Code -->
 <script>
 !function() {
