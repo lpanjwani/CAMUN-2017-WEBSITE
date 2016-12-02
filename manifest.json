@@ -1,10 +1,10 @@
 {
-  "name": "Cambridge Model United Nations",
-  "short_name": "CAMUN 2017",
+  "name": "CAMUN 2017",
+  "short_name": "CAMUN",
   "theme_color": "#07bee5",
   "background_color": "#333333",
-  "start_url": "/",
-  "display": "standalone",
+  "start_url": "/index.html",
+  "display": "standalone",	
   "gcm_sender_id": "482941778795",
     "icons": [
     {
@@ -48,11 +48,14 @@
       "type": "image/png"
     }
   ],
-  "splash_pages": null,
- "prefer_related_applications": true,   
-"related_applications":
-  {
-  "platform": "play",
-  "id": "org.cambridgemun"
-  }
+	"prefer_related_applications": true,
+  	"related_applications": [
+    {
+      "platform": "play",
+      "id": "org.cambridgemun"
+    },
+	{
+            "platform": "web"
+  	}
+  ]
 }
