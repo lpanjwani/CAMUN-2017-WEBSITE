@@ -1,6 +1,6 @@
 {
-  "name": "CAMUN 2017",
-  "short_name": "CAMUN",
+  "name": "Cambridge Model United Nations",
+  "short_name": "CAMUN 2017",
   "theme_color": "#07bee5",
   "background_color": "#333333",
   "start_url": "/index.html",
@@ -53,9 +53,6 @@
     {
       "platform": "play",
       "id": "org.cambridgemun"
-    },
-	{
-            "platform": "web"
-  	}
+    }
   ]
 }

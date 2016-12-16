@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name=".htaccess" server="107.180.2.25//public_html/" local="131237515044649293" remote="131237262600000000" Dst="0" />
+<file name=".htaccess" server="107.180.2.25//public_html/" local="131253277765842929" remote="131253025800000000" Dst="0" />
 <file name=".gitattributes" server="107.180.2.25//public_html/" local="131215496421724414" remote="131237279400000000" Dst="0" />
 <file name=".gitignore" server="107.180.2.25//public_html/" local="131215496421754415" remote="131237279400000000" Dst="0" />
-<file name="index.html" server="107.180.2.25//public_html/" local="131252508390062260" remote="131252256000000000" Dst="0" />
-<file name="landing.html" server="107.180.2.25//public_html/" local="131251487102139599" remote="131251234800000000" Dst="0" />
+<file name="index.html" server="107.180.2.25//public_html/" local="131261041660193270" remote="131260789800000000" Dst="0" />
+<file name="landing.html" server="107.180.2.25//public_html/" local="131261041873423093" remote="131260789800000000" Dst="0" />
 <file name="open.php" server="107.180.2.25//public_html/" local="131218761439381962" remote="131237279400000000" Dst="0" />
 <file name="sitemap.xml" server="107.180.2.25//public_html/" local="131239466866530101" remote="131239071600000000" Dst="0" />
 <file name="app.html" server="107.180.2.25//public_html/" local="131238883665173284" remote="131238487800000000" Dst="0" />
@@ -13,8 +13,9 @@
 <file name="404.shtml" server="107.180.2.25//public_html/" local="131251471926848350" remote="131251222800000000" Dst="0" />
 <file name="500.shtml" server="107.180.2.25//public_html/" local="131251472162772897" remote="131251222800000000" Dst="0" />
 <file name="403.shtml" server="107.180.2.25//public_html/" local="131251471561734433" remote="131251222800000000" Dst="0" />
-<file name="manifest.json" server="107.180.2.25//public_html/" local="131251469301279990" remote="131251216800000000" Dst="0" />
+<file name="manifest.json" server="107.180.2.25//public_html/" local="131253268274975048" remote="131253016200000000" Dst="0" />
 <file name="OneSignalSDKWorker.js" server="107.180.2.25//public_html/" local="130964528360000000" remote="131249721000000000" Dst="0" />
 <file name="OneSignalSDKUpdaterWorker.js" server="107.180.2.25//public_html/" local="130964528380000000" remote="131249721000000000" Dst="0" />
-<file name="service-worker.js" server="107.180.2.25//public_html/" local="131251478668869664" remote="131251226400000000" Dst="0" />
+<file name="service-worker.js" server="107.180.2.25//public_html/" local="131253271415851292" remote="131253019200000000" Dst="0" />
+<file name="test.html" server="107.180.2.25//public_html/" local="131261084670153760" remote="131260832400000000" Dst="0" />
 </dwsync>
