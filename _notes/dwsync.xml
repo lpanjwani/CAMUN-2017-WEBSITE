@@ -13,9 +13,8 @@
 <file name="404.shtml" server="107.180.2.25//public_html/" local="131251471926848350" remote="131251222800000000" Dst="0" />
 <file name="500.shtml" server="107.180.2.25//public_html/" local="131251472162772897" remote="131251222800000000" Dst="0" />
 <file name="403.shtml" server="107.180.2.25//public_html/" local="131251471561734433" remote="131251222800000000" Dst="0" />
-<file name="manifest.json" server="107.180.2.25//public_html/" local="131253268274975048" remote="131253016200000000" Dst="0" />
+<file name="manifest.json" server="107.180.2.25//public_html/" local="131263626110286430" remote="131263374000000000" Dst="0" />
 <file name="OneSignalSDKWorker.js" server="107.180.2.25//public_html/" local="130964528360000000" remote="131249721000000000" Dst="0" />
 <file name="OneSignalSDKUpdaterWorker.js" server="107.180.2.25//public_html/" local="130964528380000000" remote="131249721000000000" Dst="0" />
 <file name="service-worker.js" server="107.180.2.25//public_html/" local="131253271415851292" remote="131253019200000000" Dst="0" />
-<file name="test.html" server="107.180.2.25//public_html/" local="131261084670153760" remote="131260832400000000" Dst="0" />
 </dwsync>
