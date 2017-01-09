@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name=".htaccess" server="107.180.2.25//public_html/" local="131253277765842929" remote="131253025800000000" Dst="0" />
+<file name=".htaccess" server="107.180.2.25//public_html/" local="131284497280955425" remote="131264142000000000" Dst="0" />
 <file name=".gitattributes" server="107.180.2.25//public_html/" local="131215496421724414" remote="131237279400000000" Dst="0" />
 <file name=".gitignore" server="107.180.2.25//public_html/" local="131215496421754415" remote="131237279400000000" Dst="0" />
 <file name="index.html" server="107.180.2.25//public_html/" local="131274875062822336" remote="131274478800000000" Dst="0" />
-<file name="landing.html" server="107.180.2.25//public_html/" local="131266854999702340" remote="131266603200000000" Dst="0" />
+<file name="landing.html" server="107.180.2.25//public_html/" local="131284446393774445" remote="131284054800000000" Dst="0" />
 <file name="open.php" server="107.180.2.25//public_html/" local="131218761439381962" remote="131237279400000000" Dst="0" />
 <file name="sitemap.xml" server="107.180.2.25//public_html/" local="131239466866530101" remote="131239071600000000" Dst="0" />
-<file name="app.html" server="107.180.2.25//public_html/" local="131238883665173284" remote="131238487800000000" Dst="0" />
-<file name="401.shtml" server="107.180.2.25//public_html/" local="131251471653418112" remote="131251222800000000" Dst="0" />
-<file name="400.shtml" server="107.180.2.25//public_html/" local="131251471445965752" remote="131251222800000000" Dst="0" />
-<file name="404.shtml" server="107.180.2.25//public_html/" local="131251471926848350" remote="131251222800000000" Dst="0" />
-<file name="500.shtml" server="107.180.2.25//public_html/" local="131251472162772897" remote="131251222800000000" Dst="0" />
-<file name="403.shtml" server="107.180.2.25//public_html/" local="131251471561734433" remote="131251222800000000" Dst="0" />
+<file name="app.html" server="107.180.2.25//public_html/" local="131284497319838442" remote="131238487800000000" Dst="0" />
+<file name="401.shtml" server="107.180.2.25//public_html/" local="131284497297493207" remote="131251222800000000" Dst="0" />
+<file name="400.shtml" server="107.180.2.25//public_html/" local="131284497301813277" remote="131251222800000000" Dst="0" />
+<file name="404.shtml" server="107.180.2.25//public_html/" local="131284497307829148" remote="131264234400000000" Dst="0" />
+<file name="500.shtml" server="107.180.2.25//public_html/" local="131284497313836755" remote="131251222800000000" Dst="0" />
+<file name="403.shtml" server="107.180.2.25//public_html/" local="131284497314683133" remote="131264236200000000" Dst="0" />
 <file name="manifest.json" server="107.180.2.25//public_html/" local="131263626110286430" remote="131263374000000000" Dst="0" />
 <file name="OneSignalSDKWorker.js" server="107.180.2.25//public_html/" local="130964528360000000" remote="131249721000000000" Dst="0" />
 <file name="OneSignalSDKUpdaterWorker.js" server="107.180.2.25//public_html/" local="130964528380000000" remote="131249721000000000" Dst="0" />
 <file name="service-worker.js" server="107.180.2.25//public_html/" local="131253271415851292" remote="131253019200000000" Dst="0" />
+<file name="landing.html" server="107.180.2.25" local="131284446393774445" remote="131284050000000000" Dst="0" />
 </dwsync>
