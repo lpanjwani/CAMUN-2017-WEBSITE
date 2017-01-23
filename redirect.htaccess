@@ -1,0 +1,39 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^www\.cambridgemun\.org$
+RewriteRule (.*) https://archives.cambridgemun.org/2017/$1 [R=302,L]
+RewriteCond %{HTTP_HOST} !^cambridgemun\.org$
+RewriteRule (.*) https://archives.cambridgemun.org/2017/$1 [R=302,L]
+
+# 2018 Redirect (Restore Intructions: Remove Above and from OR below. Also remove hash from start of each line below)
+# RewriteEngine On
+# RewriteCond %{HTTP_HOST} !^www\.cambridgemun\.org$
+# RewriteRule (.*) https://2018.cambridgemun.org/$1 [R=302,L]
+# RewriteCond %{HTTP_HOST} !^cambridgemun\.org$
+# RewriteRule (.*) https://archives.cambridgemun.org/$1 [R=302,L]
+#
+#  				OR
+#
+# Main Redirect (Restore Instructions: Remove All Above  & Remove all hash from start of each line below)
+# RewriteEngine on
+#
+# Force www: from http://stackoverflow.com/a/4958847/1078583
+# RewriteCond %{HTTP_HOST} !^$
+# RewriteCond %{HTTP_HOST} !^www\. [NC]
+# RewriteCond %{HTTPS}s ^on(s)|
+# RewriteRule ^ http%1://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+#
+# Force SSL: 
+# RewriteCond %{HTTPS} off
+# RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=302,L,NE]
+#
+#
+# RewriteCond %{THE_REQUEST} /([^.]+)\.html [NC]
+# RewriteRule ^ /%1 [NC,L,R]
+#
+# RewriteCond %{REQUEST_FILENAME}.html -f
+# RewriteRule ^ %{REQUEST_URI}.html [NC,L]
+#
+# RewriteCond %{REQUEST_FILENAME} !-d 
+# RewriteCond %{REQUEST_FILENAME}\.jpg -f 
+# RewriteRule ^(.*)$ $1.jpg
+
