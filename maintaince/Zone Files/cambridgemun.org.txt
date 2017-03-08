@@ -1,6 +1,6 @@
 ;; 
 ;; Domain:     cambridgemun.org
-;; Exported:   2016-12-28 16:01:30
+;; Exported:   2017-02-24 11:05:04
 ;; 
 ;; This file is intended for use for informational and archival
 ;; purposes ONLY and MUST be edited before use on a production
@@ -22,10 +22,10 @@
 ;; of this zone data, the BIND name server, or any other third-party
 ;; DNS software.
 ;; 
-;;     Use at your own risk.
+;; Use at your own risk.
 $ORIGIN .
 @	3600	IN	SOA	cambridgemun.org.	root.cambridgemun.org.	(
-		2023460749	; serial
+		2023960090	; serial
 		7200		; refresh
 		3600		; retry
 		86400		; expire
@@ -37,25 +37,34 @@ $ORIGIN .
 cambridgemun.org.	300	IN	NS	REPACE&ME$WITH^YOUR@NAMESERVER.
 
 ;; MX Records
-cambridgemun.org.	300	IN	MX	0	smtp.secureserver.net.
-cambridgemun.org.	300	IN	MX	10	mailstore1.secureserver.net.
+cambridgemun.org.	300	IN	MX	0	cambridgemun-org.mail.protection.outlook.com.
 
 ;; TXT Records
 cambridgemun.org.	300	IN	TXT	"google-site-verification=ruI9wdfSt3GGd3GyGTtVJhh5Udde8FzXMsVQ0UAlPHc"
 cambridgemun.org.	300	IN	TXT	"google-site-verification=S1s4UmKd5ec2LcoMVqRsm3NESzlbPB1TkRZFCDAHkb4"
+cambridgemun.org.	300	IN	TXT	"v=spf1 include:spf.protection.outlook.com -all"
+
+;; SRV Records (Service locator)
+_sipfederationtls._tcp.cambridgemun.org.	300	IN	SRV	100			1	5061	sipfed.online.lync.com.
+_sip._tls.cambridgemun.org.	300	IN	SRV	100			1	443	sipdir.online.lync.com.
 
 ;; CNAME Records
-www.cambridgemun.org.	300	IN	CNAME	cambridgemun.org.
-webdisk.cambridgemun.org.	300	IN	CNAME	cambridgemun.org.
-email.cambridgemun.org.	300	IN	CNAME	email.secureserver.net.
-imap.cambridgemun.org.	300	IN	CNAME	imap.secureserver.net.
-pop.cambridgemun.org.	300	IN	CNAME	pop.secureserver.net.
+enterpriseregistration.cambridgemun.org.	300	IN	CNAME	enterpriseregistration.windows.net.
 whm.cambridgemun.org.	300	IN	CNAME	cambridgemun.org.
+sip.cambridgemun.org.	300	IN	CNAME	sipdir.online.lync.com.
 ftp.cambridgemun.org.	300	IN	CNAME	cambridgemun.org.
+autodiscover.cambridgemun.org.	300	IN	CNAME	autodiscover.outlook.com.
+msoid.cambridgemun.org.	300	IN	CNAME	clientconfig.microsoftonline-p.net.
 cpanel.cambridgemun.org.	300	IN	CNAME	cambridgemun.org.
-mail.cambridgemun.org.	300	IN	CNAME	pop.secureserver.net.
-smtp.cambridgemun.org.	300	IN	CNAME	smtp.secureserver.net.
+webdisk.cambridgemun.org.	300	IN	CNAME	cambridgemun.org.
+enterpriseenrollment.cambridgemun.org.	300	IN	CNAME	enterpriseenrollment.manage.microsoft.com.
+www.cambridgemun.org.	300	IN	CNAME	cambridgemun.org.
+lyncdiscover.cambridgemun.org.	300	IN	CNAME	webdir.online.lync.com.
 
 ;; A Records (IPv4 addresses)
-admin.cambridgemun.org.	300	IN	A	107.180.2.25
+2018.cambridgemun.org.	300	IN	A	107.180.2.25
 cambridgemun.org.	300	IN	A	107.180.2.25
+portal.cambridgemun.org.	300	IN	A	107.180.2.25
+email.cambridgemun.org.	300	IN	A	107.180.2.25
+office.cambridgemun.org.	300	IN	A	107.180.2.25
+archives.cambridgemun.org.	300	IN	A	107.180.2.25
